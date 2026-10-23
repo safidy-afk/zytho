@@ -30,3 +30,8 @@ Contrôlés en 200 : https://www.zytho.ca/ ↔ https://www.zytho.ca/fr/ ; https:
 - Fichiers : `zy-hf/header-en.php`, `zy-hf/header-fr.php`, `zy-css/hf-extra.css` du thème enfant. Copies de sauvegarde : `header-en.php.bak-20261023` et `header-fr.php.bak-20261023` dans le même dossier. Retour arrière : remettre ces copies et retirer le bloc `.zy-ls-mobile` du CSS.
 - Captures « après » : `rapport/captures/apres-distribution-en-mobile.png` (bouton FR, page https://www.zytho.ca/distribution/) et `rapport/captures/apres-accueil-fr-mobile.png` (bouton EN, page https://www.zytho.ca/fr/).
 - Contrôles : les deux pages répondent 200 ; le lien de https://www.zytho.ca/distribution/ vise la traduction FR (https://www.zytho.ca/fr/nouvelle-distribution/).
+
+## Ajustement du 2026-10-23 (en-tête sur une seule ligne)
+- Constat : l'ajout du bouton avait fait passer le menu hamburger sur une 2e ligne (captures `apres-*`).
+- Correction : règle CSS en tête de la rangée (`hf-extra.css`) : la rangée reste sur une seule ligne, espaces réduits de 20 à 8 px, bouton un peu plus petit. Ordre : logo | langue | panier | recherche | menu. Hauteur de l'en-tête identique à l'origine (80 px).
+- Captures : `rapport/captures/apres2-accueil-en-mobile.png` et `apres2-accueil-fr-mobile.png`. Tablette et bureau inchangés (règle limitée à ≤ 767 px).
