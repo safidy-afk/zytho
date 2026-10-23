@@ -24,3 +24,9 @@ Contrôlés en 200 : https://www.zytho.ca/ ↔ https://www.zytho.ca/fr/ ; https:
 1. Ajouter dans le menu mobile un élément de langue : bloc « Language Switcher » de WPML dans le menu (Apparence > Menus), ou, dans `zytho_hf_menu()`, un `<li>` généré par `apply_filters('wpml_active_languages')` qui pointe vers la traduction de la page courante.
 2. Ou sortir le sélecteur seul du conteneur masqué et l'afficher à côté du panier sur mobile.
 3. Après la modification : vider WP Rocket et Cloudflare, puis refaire les captures 390/768/bureau.
+
+## Correction appliquée le 2026-10-23 (validée par le client : « le sélecteur seul à côté du panier »)
+- Ajout d'un lien de langue (« FR » sur les pages EN, « EN » sur les pages FR) à côté du panier, visible uniquement ≤ 767 px. Il pointe vers la traduction de la page courante (fonction WPML `wpml_active_languages`) ; les menus et la barre du haut (bureau/tablette) ne changent pas.
+- Fichiers : `zy-hf/header-en.php`, `zy-hf/header-fr.php`, `zy-css/hf-extra.css` du thème enfant. Copies de sauvegarde : `header-en.php.bak-20261023` et `header-fr.php.bak-20261023` dans le même dossier. Retour arrière : remettre ces copies et retirer le bloc `.zy-ls-mobile` du CSS.
+- Captures « après » : `rapport/captures/apres-distribution-en-mobile.png` (bouton FR, page https://www.zytho.ca/distribution/) et `rapport/captures/apres-accueil-fr-mobile.png` (bouton EN, page https://www.zytho.ca/fr/).
+- Contrôles : les deux pages répondent 200 ; le lien de https://www.zytho.ca/distribution/ vise la traduction FR (https://www.zytho.ca/fr/nouvelle-distribution/).
