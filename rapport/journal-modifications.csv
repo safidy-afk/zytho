@@ -2257,3 +2257,102 @@ date,type,ID,URL,langue,champ,avant,après
 2026-10-23,image,21308,https://www.zytho.ca/wp-content/uploads/2026/03/tmpj203fltq.webp,fr,alt,,Ampco LF – image 2
 2026-10-23,image,21309,https://www.zytho.ca/wp-content/uploads/2026/03/tmpu0j3xo6i.webp,fr,alt,,Ampco Série L – image 2
 2026-10-23,fichier,robots.txt,https://www.zytho.ca/robots.txt,,contenu (fichier physique créé à la racine ; retour arrière = supprimer le fichier),"robots.txt virtuel de WordPress, voir rapport/avant/robots-avant.txt",ajout de Disallow: /*?*zytho_categories= et /*?*zytho_brands= ; voir rapport/avant/robots-apres.txt
+2026-10-23,page,1503,https://www.zytho.ca/fr/sonde-pour-gaz-dissous/,fr,slug,sonde-pour-gas-dissous,sonde-pour-gaz-dissous (redirection 301 depuis l'ancienne URL)
+2026-10-23,page,4002,https://www.zytho.ca/fr/home-v2/,fr,post_content (lien),https://www.zytho.ca/fr/sonde-pour-gas-dissous/,https://www.zytho.ca/fr/sonde-pour-gaz-dissous/
+2026-10-23,produit,18682,https://www.zytho.ca/product/zytho-deox-systeme-de-desaeration-deau-inline-o%e2%82%82-free-water/,en (contenu en français),yoast_metadesc,,"Zytho DEOX : désaérateur d'eau inline à membranes pour brasseries. Jusqu'à 99,71 % d'O₂ éliminé, 60 hl/h, compatible CIP. Demandez une soumission."
+2026-10-23,produit,4355,https://www.zytho.ca/wp-admin/post.php?post=4355&action=edit,fr,post_title,Cam & Groove Adapter – Dixon,Adaptateur à came et rainure – Dixon
+2026-10-23,produit,10225,https://www.zytho.ca/wp-admin/post.php?post=10225&action=edit,fr,post_title,15WL Light Wall Tank Threaded Bevel Seat Ferrules - Dixon,Viroles filetées à siège biseauté pour cuve à paroi mince 15WL - Dixon
+2026-10-23,produit,14058,https://www.zytho.ca/wp-admin/post.php?post=14058&action=edit,fr,post_title,Prise souhaitable 8 broches - Ifm,Prise câblable 8 broches - Ifm
+2026-10-23,produit,14063,https://www.zytho.ca/wp-admin/post.php?post=14063&action=edit,fr,post_title,Prise M12 Wirable - Ifm,Prise M12 câblable - Ifm
+2026-10-23,produit,14075,https://www.zytho.ca/wp-admin/post.php?post=14075&action=edit,fr,post_title,Prise souhaitable à 4 broches - Ifm,Prise câblable à 4 broches - Ifm
+2026-10-23,produit,14087,https://www.zytho.ca/wp-admin/post.php?post=14087&action=edit,fr,post_title,Prise souhaitable - Ifm,Prise câblable - Ifm
+2026-10-23,produit,14099,https://www.zytho.ca/wp-admin/post.php?post=14099&action=edit,fr,post_title,Prise souhaitable - Ifm,Prise câblable - Ifm
+2026-10-23,produit,14103,https://www.zytho.ca/wp-admin/post.php?post=14103&action=edit,fr,post_title,L14AM7X Schedule 5S et 10S Long Weld Ferrules,"Viroles à longue soudure L14AM7X, Schedule 5S et 10S"
+2026-10-23,produit,14124,https://www.zytho.ca/wp-admin/post.php?post=14124&action=edit,fr,post_title,BSCCQ Side Entry Tri-Clamp Strainer Replacement Parts (pièces de rechange),Pièces de rechange pour filtre à entrée latérale Tri-Clamp BSCCQ
+2026-10-23,produit,14182,https://www.zytho.ca/wp-admin/post.php?post=14182&action=edit,fr,post_title,BSCCQ Side-Outlet Tri-Clamp Reverse Strainer Replacement Parts (pièces de rechange),Pièces de rechange pour filtre inversé Tri-Clamp à sortie latérale BSCCQ
+2026-10-23,produit,14228,https://www.zytho.ca/wp-admin/post.php?post=14228&action=edit,fr,post_title,BSCCQ Long In-line Tri-Clamp Filter / Strainer Replacement Parts (pièces de rechange),Pièces de rechange pour filtre long en ligne Tri-Clamp BSCCQ
+2026-10-23,produit,14229,https://www.zytho.ca/wp-admin/post.php?post=14229&action=edit,fr,post_title,B45 Air Blow Tri-Clamp Check Valve Replacement Parts (pièces de rechange),Pièces de rechange pour clapet anti-retour Tri-Clamp à soufflage d'air B45
+2026-10-23,produit,14261,https://www.zytho.ca/wp-admin/post.php?post=14261&action=edit,fr,post_title,B54BMP Inline Tri-Clamp Sight Glass Replacement Parts,Pièces de rechange pour voyant en ligne Tri-Clamp B54BMP
+2026-10-23,produit,14287,https://www.zytho.ca/wp-admin/post.php?post=14287&action=edit,fr,post_title,BSCCQ Short In-line Tri-Clamp Filter / Strainer Replacement Parts (pièces de rechange),Pièces de rechange pour filtre court en ligne Tri-Clamp BSCCQ
+2026-10-23,produit,14058,https://www.zytho.ca/wp-admin/post.php?post=14058&action=edit,fr,sous-titre,Souhaitable,Câblable
+2026-10-23,produit,14063,https://www.zytho.ca/wp-admin/post.php?post=14063&action=edit,fr,sous-titre,Souhaitable,Câblable
+2026-10-23,produit,14075,https://www.zytho.ca/wp-admin/post.php?post=14075&action=edit,fr,sous-titre,Souhaitable,Câblable
+2026-10-23,produit,14087,https://www.zytho.ca/wp-admin/post.php?post=14087&action=edit,fr,sous-titre,Souhaitable,Câblable
+2026-10-23,produit,14099,https://www.zytho.ca/wp-admin/post.php?post=14099&action=edit,fr,sous-titre,Souhaitable,Câblable
+2026-10-23,produit,14666,https://www.zytho.ca/wp-admin/post.php?post=14666&action=edit,fr,sous-titre,Carbonisation en ligne,Carbonatation en ligne
+2026-10-23,image,4365,https://www.zytho.ca/wp-admin/post.php?post=4365&action=edit,fr,alt,Cam & Groove Adapter – Dixon,Adaptateur à came et rainure – Dixon
+2026-10-23,image,21080,https://www.zytho.ca/wp-admin/post.php?post=21080&action=edit,fr,alt,Cam & Groove Adapter – Dixon,Adaptateur à came et rainure – Dixon
+2026-10-23,image,10233,https://www.zytho.ca/wp-admin/post.php?post=10233&action=edit,fr,alt,15WL Light Wall Tank Threaded Bevel Seat Ferrules - Dixon,Viroles filetées à siège biseauté pour cuve à paroi mince 15WL - Dixon
+2026-10-23,image,14060,https://www.zytho.ca/wp-admin/post.php?post=14060&action=edit,fr,alt,Prise souhaitable 8 broches - Ifm,Prise câblable 8 broches - Ifm
+2026-10-23,image,14065,https://www.zytho.ca/wp-admin/post.php?post=14065&action=edit,fr,alt,Prise M12 Wirable - Ifm – Souhaitable,Prise M12 câblable - Ifm – Câblable
+2026-10-23,image,14076,https://www.zytho.ca/wp-admin/post.php?post=14076&action=edit,fr,alt,Prise souhaitable à 4 broches - Ifm,Prise câblable à 4 broches - Ifm
+2026-10-23,image,14089,https://www.zytho.ca/wp-admin/post.php?post=14089&action=edit,fr,alt,Prise souhaitable - Ifm,Prise câblable - Ifm
+2026-10-23,image,14101,https://www.zytho.ca/wp-admin/post.php?post=14101&action=edit,fr,alt,Prise souhaitable - Ifm,Prise câblable - Ifm
+2026-10-23,image,14105,https://www.zytho.ca/wp-admin/post.php?post=14105&action=edit,fr,alt,L14AM7X Schedule 5S et 10S Long Weld Ferrules – Dixon,"Viroles à longue soudure L14AM7X, Schedule 5S et 10S – Dixon"
+2026-10-23,image,14126,https://www.zytho.ca/wp-admin/post.php?post=14126&action=edit,fr,alt,BSCCQ Side Entry Tri-Clamp Strainer Replacement Parts (pièces de rechange) – Dixon,Pièces de rechange pour filtre à entrée latérale Tri-Clamp BSCCQ – Dixon
+2026-10-23,image,14127,https://www.zytho.ca/wp-admin/post.php?post=14127&action=edit,fr,alt,BSCCQ Side Entry Tri-Clamp Strainer Replacement Parts (pièces de rechange) – Dixon – image 2,Pièces de rechange pour filtre à entrée latérale Tri-Clamp BSCCQ – Dixon – image 2
+2026-10-23,image,14184,https://www.zytho.ca/wp-admin/post.php?post=14184&action=edit,fr,alt,BSCCQ Side-Outlet Tri-Clamp Reverse Strainer Replacement Parts (pièces de rechange) – Dixon,Pièces de rechange pour filtre inversé Tri-Clamp à sortie latérale BSCCQ – Dixon
+2026-10-23,image,14185,https://www.zytho.ca/wp-admin/post.php?post=14185&action=edit,fr,alt,BSCCQ Side-Outlet Tri-Clamp Reverse Strainer Replacement Parts (pièces de rechange) – Dixon – image 2,Pièces de rechange pour filtre inversé Tri-Clamp à sortie latérale BSCCQ – Dixon – image 2
+2026-10-23,image,14230,https://www.zytho.ca/wp-admin/post.php?post=14230&action=edit,fr,alt,BSCCQ Long In-line Tri-Clamp Filter / Strainer Replacement Parts (pièces de rechange) – Dixon,Pièces de rechange pour filtre long en ligne Tri-Clamp BSCCQ – Dixon
+2026-10-23,image,14231,https://www.zytho.ca/wp-admin/post.php?post=14231&action=edit,fr,alt,BSCCQ Long In-line Tri-Clamp Filter / Strainer Replacement Parts (pièces de rechange) – Dixon – image 2,Pièces de rechange pour filtre long en ligne Tri-Clamp BSCCQ – Dixon – image 2
+2026-10-23,image,14246,https://www.zytho.ca/wp-admin/post.php?post=14246&action=edit,fr,alt,B45 Air Blow Tri-Clamp Check Valve Replacement Parts (pièces de rechange) – Dixon,Pièces de rechange pour clapet anti-retour Tri-Clamp à soufflage d'air B45 – Dixon
+2026-10-23,image,14262,https://www.zytho.ca/wp-admin/post.php?post=14262&action=edit,fr,alt,B54BMP Inline Tri-Clamp Sight Glass Replacement Parts – Dixon,Pièces de rechange pour voyant en ligne Tri-Clamp B54BMP – Dixon
+2026-10-23,image,14263,https://www.zytho.ca/wp-admin/post.php?post=14263&action=edit,fr,alt,B54BMP Inline Tri-Clamp Sight Glass Replacement Parts – Dixon – image 2,Pièces de rechange pour voyant en ligne Tri-Clamp B54BMP – Dixon – image 2
+2026-10-23,image,14289,https://www.zytho.ca/wp-admin/post.php?post=14289&action=edit,fr,alt,BSCCQ Short In-line Tri-Clamp Filter / Strainer Replacement Parts (pièces de rechange) – Dixon,Pièces de rechange pour filtre court en ligne Tri-Clamp BSCCQ – Dixon
+2026-10-23,image,14669,https://www.zytho.ca/wp-admin/post.php?post=14669&action=edit,fr,alt,Pentair-Haffmans PinPoint – Carbonisation en ligne,Pentair-Haffmans PinPoint – Carbonatation en ligne
+2026-10-23,image,19,https://www.zytho.ca/wp-admin/post.php?post=19&action=edit,,alt (nom de fichier : MLB.png),,MLB
+2026-10-23,image,21,https://www.zytho.ca/wp-admin/post.php?post=21&action=edit,,alt (nom de fichier : Untitled-design.png),,Untitled design
+2026-10-23,image,453,https://www.zytho.ca/wp-admin/post.php?post=453&action=edit,,alt (nom de fichier : Untitled-design-1.png),,Untitled design 1
+2026-10-23,image,1935,https://www.zytho.ca/wp-admin/post.php?post=1935&action=edit,,alt (nom de fichier : MLB.png),,MLB
+2026-10-23,image,1937,https://www.zytho.ca/wp-admin/post.php?post=1937&action=edit,,alt (nom de fichier : Untitled-design.png),,Untitled design
+2026-10-23,image,1976,https://www.zytho.ca/wp-admin/post.php?post=1976&action=edit,,alt (nom de fichier : Untitled-design-1.png),,Untitled design 1
+2026-10-23,image,2567,https://www.zytho.ca/wp-admin/post.php?post=2567&action=edit,,alt (nom de fichier : Hop.png),,Hop
+2026-10-23,image,2574,https://www.zytho.ca/wp-admin/post.php?post=2574&action=edit,,alt (nom de fichier : nep.png),,nep
+2026-10-23,image,2664,https://www.zytho.ca/wp-admin/post.php?post=2664&action=edit,,alt (nom de fichier : 1.png),,Image 1
+2026-10-23,image,2665,https://www.zytho.ca/wp-admin/post.php?post=2665&action=edit,,alt (nom de fichier : 1.png),,Image 1
+2026-10-23,image,2666,https://www.zytho.ca/wp-admin/post.php?post=2666&action=edit,,alt (nom de fichier : 2.png),,Image 2
+2026-10-23,image,2667,https://www.zytho.ca/wp-admin/post.php?post=2667&action=edit,,alt (nom de fichier : 2.png),,Image 2
+2026-10-23,image,2668,https://www.zytho.ca/wp-admin/post.php?post=2668&action=edit,,alt (nom de fichier : 3.png),,Image 3
+2026-10-23,image,2669,https://www.zytho.ca/wp-admin/post.php?post=2669&action=edit,,alt (nom de fichier : 3.png),,Image 3
+2026-10-23,image,2670,https://www.zytho.ca/wp-admin/post.php?post=2670&action=edit,,alt (nom de fichier : 4.png),,Image 4
+2026-10-23,image,2671,https://www.zytho.ca/wp-admin/post.php?post=2671&action=edit,,alt (nom de fichier : 4.png),,Image 4
+2026-10-23,image,2672,https://www.zytho.ca/wp-admin/post.php?post=2672&action=edit,,alt (nom de fichier : 5.png),,Image 5
+2026-10-23,image,2673,https://www.zytho.ca/wp-admin/post.php?post=2673&action=edit,,alt (nom de fichier : 5.png),,Image 5
+2026-10-23,image,2674,https://www.zytho.ca/wp-admin/post.php?post=2674&action=edit,,alt (nom de fichier : 6.png),,Image 6
+2026-10-23,image,2675,https://www.zytho.ca/wp-admin/post.php?post=2675&action=edit,,alt (nom de fichier : 6.png),,Image 6
+2026-10-23,image,2676,https://www.zytho.ca/wp-admin/post.php?post=2676&action=edit,,alt (nom de fichier : 7.png),,Image 7
+2026-10-23,image,2677,https://www.zytho.ca/wp-admin/post.php?post=2677&action=edit,,alt (nom de fichier : 7.png),,Image 7
+2026-10-23,image,2678,https://www.zytho.ca/wp-admin/post.php?post=2678&action=edit,,alt (nom de fichier : 8.png),,Image 8
+2026-10-23,image,2679,https://www.zytho.ca/wp-admin/post.php?post=2679&action=edit,,alt (nom de fichier : 8.png),,Image 8
+2026-10-23,image,2680,https://www.zytho.ca/wp-admin/post.php?post=2680&action=edit,,alt (nom de fichier : 9.png),,Image 9
+2026-10-23,image,2681,https://www.zytho.ca/wp-admin/post.php?post=2681&action=edit,,alt (nom de fichier : 9.png),,Image 9
+2026-10-23,image,2730,https://www.zytho.ca/wp-admin/post.php?post=2730&action=edit,,alt (nom de fichier : French-5.png),,French 5
+2026-10-23,image,2731,https://www.zytho.ca/wp-admin/post.php?post=2731&action=edit,,alt (nom de fichier : 9-1.png),,Image 9-1
+2026-10-23,image,2732,https://www.zytho.ca/wp-admin/post.php?post=2732&action=edit,,alt (nom de fichier : French-2.png),,French 2
+2026-10-23,image,2733,https://www.zytho.ca/wp-admin/post.php?post=2733&action=edit,,alt (nom de fichier : 3-1.png),,Image 3-1
+2026-10-23,image,2734,https://www.zytho.ca/wp-admin/post.php?post=2734&action=edit,,alt (nom de fichier : French-3.png),,French 3
+2026-10-23,image,2735,https://www.zytho.ca/wp-admin/post.php?post=2735&action=edit,,alt (nom de fichier : 5-1.png),,Image 5-1
+2026-10-23,image,2736,https://www.zytho.ca/wp-admin/post.php?post=2736&action=edit,,alt (nom de fichier : French-4.png),,French 4
+2026-10-23,image,2737,https://www.zytho.ca/wp-admin/post.php?post=2737&action=edit,,alt (nom de fichier : 7-1.png),,Image 7-1
+2026-10-23,image,16090,https://www.zytho.ca/wp-admin/post.php?post=16090&action=edit,,alt (nom de fichier : 3.png),,Image 3
+2026-10-23,image,16091,https://www.zytho.ca/wp-admin/post.php?post=16091&action=edit,,alt (nom de fichier : 4.png),,Image 4
+2026-10-23,image,16092,https://www.zytho.ca/wp-admin/post.php?post=16092&action=edit,,alt (nom de fichier : 5.png),,Image 5
+2026-10-23,image,16093,https://www.zytho.ca/wp-admin/post.php?post=16093&action=edit,,alt (nom de fichier : 6.png),,Image 6
+2026-10-23,image,16094,https://www.zytho.ca/wp-admin/post.php?post=16094&action=edit,,alt (nom de fichier : 7.png),,Image 7
+2026-10-23,image,16095,https://www.zytho.ca/wp-admin/post.php?post=16095&action=edit,,alt (nom de fichier : 8.png),,Image 8
+2026-10-23,image,16096,https://www.zytho.ca/wp-admin/post.php?post=16096&action=edit,,alt (nom de fichier : 1.png),,Image 1
+2026-10-23,image,16097,https://www.zytho.ca/wp-admin/post.php?post=16097&action=edit,,alt (nom de fichier : 2.png),,Image 2
+2026-10-23,image,16099,https://www.zytho.ca/wp-admin/post.php?post=16099&action=edit,,alt (nom de fichier : 1.png),,Image 1
+2026-10-23,image,16100,https://www.zytho.ca/wp-admin/post.php?post=16100&action=edit,,alt (nom de fichier : 2.png),,Image 2
+2026-10-23,image,16101,https://www.zytho.ca/wp-admin/post.php?post=16101&action=edit,,alt (nom de fichier : 3.png),,Image 3
+2026-10-23,image,16102,https://www.zytho.ca/wp-admin/post.php?post=16102&action=edit,,alt (nom de fichier : 4.png),,Image 4
+2026-10-23,image,16103,https://www.zytho.ca/wp-admin/post.php?post=16103&action=edit,,alt (nom de fichier : 5.png),,Image 5
+2026-10-23,image,16104,https://www.zytho.ca/wp-admin/post.php?post=16104&action=edit,,alt (nom de fichier : 6.png),,Image 6
+2026-10-23,image,16105,https://www.zytho.ca/wp-admin/post.php?post=16105&action=edit,,alt (nom de fichier : 7.png),,Image 7
+2026-10-23,image,16106,https://www.zytho.ca/wp-admin/post.php?post=16106&action=edit,,alt (nom de fichier : 8.png),,Image 8
+2026-10-23,image,18537,https://www.zytho.ca/wp-admin/post.php?post=18537&action=edit,,alt (nom de fichier : Bitmap-2.png),,Bitmap 2
+2026-10-23,image,18539,https://www.zytho.ca/wp-admin/post.php?post=18539&action=edit,,alt (nom de fichier : Bitmap-1.png),,Bitmap 1
+2026-10-23,image,18541,https://www.zytho.ca/wp-admin/post.php?post=18541&action=edit,,alt (nom de fichier : Bitma.jpeg),,Bitma
+2026-10-23,image,18684,https://www.zytho.ca/wp-admin/post.php?post=18684&action=edit,,alt (nom de fichier : 1.png),,Image 1
+2026-10-23,image,18845,https://www.zytho.ca/wp-admin/post.php?post=18845&action=edit,,alt (nom de fichier : 6-e1773724928318.png),,Image 6
+2026-10-23,image,19508,https://www.zytho.ca/wp-admin/post.php?post=19508&action=edit,,alt (nom de fichier : 1.png),,Image 1

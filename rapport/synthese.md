@@ -26,12 +26,12 @@ Aucun H1 touché, pages `distribution-2` (EN 3895, FR 20945) intactes, rien dans
 ## 3. Ce qui reste à valider (détails dans `rapport/a-valider.md`)
 - **À faire par vous : purger `/robots.txt` dans Cloudflare** (https://www.zytho.ca/robots.txt).
 - Section CTA retirée : elle contenait aussi l'embed HubSpot Meetings ; confirmer qu'il ne doit pas rester. Le lien erp.nxtprocess.com reste sur les pages `distribution-2` (interdites).
-- 6 produits sans méta-description (fiches vides ou doublons) : EN 9375, 18642, 18682 ; FR 14227, 16098, 18643.
+- 5 fiches vides sans méta-description, ignorées : EN 9375, 18642 ; FR 14227, 16098, 18643 (la 6e, ID 18682, est faite).
 - 500 produits sur 969 ont un titre Yoast trop long (`… - Pour brasseries professionnelles | Zytho`) : proposition de retirer ce segment, non appliquée.
-- Slug FR `sonde-pour-gas-dissous` (ID 1503, faute « gas ») : non modifié ; à corriger avec une redirection 301.
-- Fiches FR à retravailler (« Souhaitable » pour « Wirable », « Carbonisation en ligne », titres restés en anglais) et fautes EN (« Hygenic »).
-- 56 images laissées sans alt (infographies/images décoratives à regarder) et relecture visuelle des alt des pages d'accueil, « Why Zytho », « Consultation », « Distribution ».
-- 10 fiches avec PDF sur le domaine mort Zythoprocess.com (champ `documentation`) : les PDF sont à téléverser avant de remplacer les liens.
+- Slug FR corrigé le 23/10 : https://www.zytho.ca/fr/sonde-pour-gaz-dissous/ (redirection 301 depuis l'ancien).
+- Fiches FR retravaillées le 23/10 (câblable, carbonatation, titres traduits) ; restent les fautes EN (« Hygenic »).
+- Les 56 dernières images ont un alt tiré du nom de fichier (peu descriptif) ; relecture visuelle des alt des pages d'accueil, « Why Zytho », « Consultation », « Distribution ».
+- Champ `documentation` des 10 fiches (PDF Zythoprocess.com) : non affiché sur le site, ignoré à la demande du client.
 - Produits sur devis (87 sans prix, 9 à 0 $) : pas de `Product` structuré (normal, Google exige un prix) ; défauts à corriger : double encodage `&amp;amp;`, deux `BreadcrumbList`, fiche 4360 « Uncategorized » ; recontrôler « Extraits de produits » dans Search Console dans quelques jours.
 
 ## 4. Liens cassés restants (`rapport/liens-catalogue.csv`)
