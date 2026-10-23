@@ -11,3 +11,8 @@
 - `site_info` indique `can_write: false` alors que l'écriture fonctionne (faux positif confirmé par le client et par les éditions réussies).
 - `create_backup` (db) a expiré côté outil (60 s). La sauvegarde 8df6b380-126d-4d6c-a616-7cf67493463f (29,6 Mo, 2026-10-23 15:44 UTC) est enregistrée sur le site ; sa copie externe a échoué (SignatureDoesNotMatch). Les sauvegardes planifiées vers Google Drive sont aussi en échec partiel depuis le 22 octobre.
 - `execute_php` est désactivé par le plugin Hari ; les lectures se font par `db_query`.
+
+## Tâche 2 — liens vers Zythoprocess.com
+- Fiches Ampco LC vérifiées (200) : https://www.zytho.ca/product/ampco-lc-series/ (ID 5360, EN) et https://www.zytho.ca/fr/produit/serie-ampco-lc/ (ID 14010, FR). Liées par WPML (trid 18116).
+- Les 4 fiches demandées contenaient aussi des liens morts vers `ampco-ld`, `ampco-lf`, `ampco-lm`, `ampco-lh`. Remplacés par l'équivalent interne de la même langue (toutes les cibles vérifiées en 200). Les extraits des fiches LM (5368 EN, 13987 FR) contenaient aussi un lien vers `ampco-lf`, corrigé par `UPDATE` ciblé (snapshots Hari 228 et 229).
+- **Non traité, à valider** : 10 fiches produits (5249, 5267, 5285, 5287, 5289 EN ; 9982, 14670, 14022, 14026, 14030 FR) ont dans le champ meta `documentation` des liens vers des PDF hébergés sur le domaine mort (`https://www.Zythoprocess.com/wp-content/uploads/...` : ac_ac_ic_brochure-1.pdf, in-line-optical-o2-meter_ogm_haffmans_leaflet_fr.pdf, cbcraft_brew_pump.pdf, zp-brochure.pdf, al-series_sanitary_brochure.pdf). Aucun de ces PDF n'existe dans la médiathèque de zytho.ca : il faut les téléverser (ou obtenir une nouvelle source) avant de remplacer les liens.

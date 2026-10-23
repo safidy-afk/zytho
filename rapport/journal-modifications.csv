@@ -1,3 +1,19 @@
 date,type,ID,URL,langue,champ,avant,après
 2026-10-23,page,18814,https://www.zytho.ca/distribution/,en,post_content,"section CTA 'Discuss your needs with an expert' (bloc zx-c6451ad, bouton -> erp.nxtprocess.com/book/003a8b37) : voir rapport/avant/tache1-18814-section-cta-en.html","(section retirée)"
 2026-10-23,page,20943,https://www.zytho.ca/fr/nouvelle-distribution/,fr,post_content,"section CTA 'Échangez sur vos besoins avec un expert' (bloc zx-c6451ad) : voir rapport/avant/tache1-20943-section-cta-fr.html","(section retirée)"
+2026-10-23,produit,5358,https://www.zytho.ca/product/ampco-l-series/,en,post_content (lien),https://www.Zythoprocess.com/product/ampco-lc-series/,https://www.zytho.ca/product/ampco-lc-series/
+2026-10-23,produit,5358,https://www.zytho.ca/product/ampco-l-series/,en,post_content (lien),https://www.Zythoprocess.com/product/ampco-ld/,https://www.zytho.ca/product/ampco-ld-series/
+2026-10-23,produit,5358,https://www.zytho.ca/product/ampco-l-series/,en,post_content (lien),https://www.Zythoprocess.com/product/ampco-lf/,https://www.zytho.ca/product/ampco-lf/
+2026-10-23,produit,5358,https://www.zytho.ca/product/ampco-l-series/,en,post_content (lien),https://www.Zythoprocess.com/product/ampco-lm/,https://www.zytho.ca/product/ampco-lm/
+2026-10-23,produit,5358,https://www.zytho.ca/product/ampco-l-series/,en,post_content (lien),https://www.Zythoprocess.com/product/ampco-lh/,https://www.zytho.ca/product/ampco-lh-series/
+2026-10-23,produit,5366,https://www.zytho.ca/product/ampco-lf/,en,post_content (lien),https://www.Zythoprocess.com/product/ampco-lc-series/,https://www.zytho.ca/product/ampco-lc-series/
+2026-10-23,produit,5366,https://www.zytho.ca/product/ampco-lf/,en,post_content (lien),https://www.Zythoprocess.com/product/ampco-ld/,https://www.zytho.ca/product/ampco-ld-series/
+2026-10-23,produit,13992,https://www.zytho.ca/fr/produit/ampco-lf/,fr,post_content (lien),https://www.Zythoprocess.com/product/ampco-lc-series/,https://www.zytho.ca/fr/produit/serie-ampco-lc/
+2026-10-23,produit,13992,https://www.zytho.ca/fr/produit/ampco-lf/,fr,post_content (lien),https://www.Zythoprocess.com/product/ampco-ld/,https://www.zytho.ca/fr/produit/ampco-serie-ld/
+2026-10-23,produit,14015,https://www.zytho.ca/fr/produit/ampco-serie-l/,fr,post_content (lien),https://www.Zythoprocess.com/product/ampco-lc-series/,https://www.zytho.ca/fr/produit/serie-ampco-lc/
+2026-10-23,produit,14015,https://www.zytho.ca/fr/produit/ampco-serie-l/,fr,post_content (lien),https://www.Zythoprocess.com/product/ampco-ld/,https://www.zytho.ca/fr/produit/ampco-serie-ld/
+2026-10-23,produit,14015,https://www.zytho.ca/fr/produit/ampco-serie-l/,fr,post_content (lien),https://www.Zythoprocess.com/product/ampco-lf/,https://www.zytho.ca/fr/produit/ampco-lf/
+2026-10-23,produit,14015,https://www.zytho.ca/fr/produit/ampco-serie-l/,fr,post_content (lien),https://www.Zythoprocess.com/product/ampco-lm/,https://www.zytho.ca/fr/produit/ampco-lm/
+2026-10-23,produit,14015,https://www.zytho.ca/fr/produit/ampco-serie-l/,fr,post_content (lien),https://www.Zythoprocess.com/product/ampco-lh/,https://www.zytho.ca/fr/produit/ampco-serie-lh/
+2026-10-23,produit,5368,https://www.zytho.ca/product/ampco-lm/,en,post_excerpt (lien),https://www.Zythoprocess.com/product/ampco-lf/,https://www.zytho.ca/product/ampco-lf/
+2026-10-23,produit,13987,https://www.zytho.ca/fr/produit/ampco-lm/,fr,post_excerpt (lien),https://www.Zythoprocess.com/product/ampco-lf/,https://www.zytho.ca/fr/produit/ampco-lf/
