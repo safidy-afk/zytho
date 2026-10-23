@@ -1,0 +1,20 @@
+User-agent: *
+Disallow: /wp-content/uploads/wc-logs/
+Disallow: /wp-content/uploads/woocommerce_transient_files/
+Disallow: /wp-content/uploads/woocommerce_uploads/
+Disallow: /*?add-to-cart=
+Disallow: /*?*add-to-cart=
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+# Pages filtrees (Filter Everything) : doublons de /shop/ et des categories (2026-10-23)
+Disallow: /*?*zytho_categories=
+Disallow: /*?*zytho_brands=
+
+# START YOAST BLOCK
+# ---------------------------
+User-agent: *
+Disallow:
+
+Sitemap: https://www.zytho.ca/sitemap_index.xml
+# ---------------------------
+# END YOAST BLOCK
