@@ -90,3 +90,8 @@
 - **Données structurées** (mu-plugin `wp-content/mu-plugins/zytho-structured-data.php`, copie dans `rapport/fichiers-modifies/`) : un seul BreadcrumbList par fiche (celui de Yoast), nom du Product sans `&amp;amp;` (« Cam & Groove Adapter – Dixon »), fil d'Ariane Yoast sans entités. Contrôlé sur https://www.zytho.ca/product/cam-groove-adapter-dixon/. Retour arrière : supprimer le fichier.
 - **Fiche 4360** : catégorie « Uncategorized » remplacée par Catalog / Hardware / Camlock (modèle : la fiche voisine 6973, même produit) ; jumelle FR 5225 → Distribution / Matériel / Camlock. 12 autres produits restent dans « Uncategorized » (à ranger).
 - Incident corrigé : un outil a créé 4 catégories parasites (« [73 », « 274] », « [736 », « 846] ») ; elles ont été supprimées et les bonnes catégories posées.
+
+## Fiche 18682 (Zytho DEOX) — rédaction EN faite le 2026-10-23
+- Description anglaise rédigée (pas une traduction mot à mot) dans le contenu de la fiche, extrait anglais, titre et méta Yoast en anglais. L'ancien texte français reste dans le champ `documentation` (non affiché, laissé tel quel).
+- **Le H1 de la page est toujours le titre français** « Zytho DEOX – Système de désaération d'eau inline (O₂-free water) » : non modifié (règle H1). Proposition : « Zytho DEOX – Inline Water Deaeration System (O₂-Free Water) », à valider.
+- **Fiche 4355 / 5225** : la fiche https://www.zytho.ca/fr/produit/pompe-ampco-modele-316-copie/ (5225) est ignorée à la demande du client (le produit indique qu'il n'est pas en stock).
