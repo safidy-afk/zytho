@@ -35,3 +35,6 @@ Contrôlés en 200 : https://www.zytho.ca/ ↔ https://www.zytho.ca/fr/ ; https:
 - Constat : l'ajout du bouton avait fait passer le menu hamburger sur une 2e ligne (captures `apres-*`).
 - Correction : règle CSS en tête de la rangée (`hf-extra.css`) : la rangée reste sur une seule ligne, espaces réduits de 20 à 8 px, bouton un peu plus petit. Ordre : logo | langue | panier | recherche | menu. Hauteur de l'en-tête identique à l'origine (80 px).
 - Captures : `rapport/captures/apres2-accueil-en-mobile.png` et `apres2-accueil-fr-mobile.png`. Tablette et bureau inchangés (règle limitée à ≤ 767 px).
+
+## Ajustement du 2026-10-23 (espacement)
+- Le menu hamburger était collé à la loupe : espace entre les éléments porté de 8 à 12 px et marge de 10 px avant le hamburger (≈ 16 px entre la loupe et le menu). Capture : `rapport/captures/apres3-accueil-en-mobile.png`.
