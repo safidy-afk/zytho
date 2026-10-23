@@ -2256,3 +2256,4 @@ date,type,ID,URL,langue,champ,avant,après
 2026-10-23,image,21300,https://www.zytho.ca/wp-content/uploads/2025/11/tmpths94t82.webp,fr,alt,,Pentair-Haffmans GMT 2.0 – image 2
 2026-10-23,image,21308,https://www.zytho.ca/wp-content/uploads/2026/03/tmpj203fltq.webp,fr,alt,,Ampco LF – image 2
 2026-10-23,image,21309,https://www.zytho.ca/wp-content/uploads/2026/03/tmpu0j3xo6i.webp,fr,alt,,Ampco Série L – image 2
+2026-10-23,fichier,robots.txt,https://www.zytho.ca/robots.txt,,contenu (fichier physique créé à la racine ; retour arrière = supprimer le fichier),"robots.txt virtuel de WordPress, voir rapport/avant/robots-avant.txt",ajout de Disallow: /*?*zytho_categories= et /*?*zytho_brands= ; voir rapport/avant/robots-apres.txt
