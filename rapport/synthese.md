@@ -34,6 +34,14 @@ Aucun H1 touché, pages `distribution-2` (EN 3895, FR 20945) intactes, rien dans
 - Champ `documentation` des 10 fiches (PDF Zythoprocess.com) : non affiché sur le site, ignoré à la demande du client.
 - Produits sur devis (87 sans prix, 9 à 0 $) : pas de `Product` structuré (normal, Google exige un prix) ; défauts à corriger : double encodage `&amp;amp;`, deux `BreadcrumbList`, fiche 4360 « Uncategorized » ; recontrôler « Extraits de produits » dans Search Console dans quelques jours.
 
+## 3 bis. Mise à jour du 23/10 (après validation du client)
+- robots.txt : nouvelle version bien servie (8 `Disallow`), cache Cloudflare purgé par le client. Point clos.
+- Sélecteur de langue mobile : corrigé, lien FR/EN à côté du panier (captures `apres-*`).
+- Titres Yoast produits : 519 raccourcis (51 restent longs car le nom seul dépasse 60 caractères).
+- Liens 404 : retirés de 98 fiches (contenu) et 14 champs `documentation` ; seules les pages `distribution-2` (interdites) gardent le lien erp.nxtprocess.com.
+- Données structurées : doublon de fil d'Ariane et double encodage corrigés (mu-plugin) ; fiche 4360 recatégorisée.
+- À décider : fiche 18682 (contenu FR classé EN) et fiche 4355 (doublon FR orphelin) ; 12 produits encore « Uncategorized » ; fiches vides ignorées.
+
 ## 4. Liens cassés restants (`rapport/liens-catalogue.csv`)
 - **40 en 404/410** : 34 PDF Dixon (www.dixonvalve.com, dixonvalve.com, canada.dixonvalve.com), 3 brochures Ampco sur ampcopumps.com (14 fiches EN/FR), https://erp.nxtprocess.com/book/003a8b37 (page `distribution-2`, intouchable).
 - **5 erreurs DNS** : les PDF Zythoprocess.com ci-dessus.
